@@ -1,7 +1,5 @@
 # AZP-Files
-<img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Website%20Panel.png" width="100" />
-
-<img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Discord%20Panel.png" width="100" />
+<img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Website%20Panel.png" width="100" /><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Discord%20Panel.png" width="100" />
 
 <br />
 
