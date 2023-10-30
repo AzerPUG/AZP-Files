@@ -1,8 +1,8 @@
 # About AzerPUG
-Text Here
+AzerPUG is a Gaming Community and Software Company with the intent to help people enjoy games more. Whichever game you play at whatever skill level, you play games to have fun. We help our members to increase that fun! As gamers, we are mainly active in World of Warcaft, Overwatch, Diablo IV, Baldur's Gate III, Call of Duty MW3 and D&D 5e. As a software company we write Discord Bots, World of Warcraft AddOns and [Overwolf](https://www.overwolf.com/) apps. Come hang out with us in [Discord](https://www.azerpug.com/discord) and join the banter!
 
 # Overwolf Apps
-AZP writes OW apps text here.
+AzerPUG writes [Overwolf](https://www.overwolf.com/) apps to help gamers get better, have more fun or enjoy their playtime more efficiently. Overwolf is a platform for gamers, by gamers that has the goal to make UGC (User Generated Content) a profession, rather then a hobby. Currently, Overwolf is the main reason why we have multiple people making an extra buck, enjoying what they love. One of us even made it his fulltime job already! Below you can find our Overwolf apps and how they help the players!
 
 | [D4 Interactive Map](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=TW) |  [Baldurs Map](https://www.overwolf.com/app/AzerPUG-Baldurs_Map?utm_campaign=Page&utm_medium=GH) | [Starfield Companion](https://www.overwolf.com/app/AzerPUG-Starfield_Companion?utm_campaign=Page&utm_medium=GH) |
 | :----: | :----: | :----: |
