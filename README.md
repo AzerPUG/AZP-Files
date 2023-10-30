@@ -1,16 +1,3 @@
-# AzerPUG Links
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Website%20Panel%20Small.png "")](http://www.azerpug.com "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Discord%20Panel%20Small.png "")](http://www.azerpug.com/discord "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitch%20Panel%20Small.png "")](http://www.azerpug.com/twitch "")  
-
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/CurseForge%20Panel%20Small.png "")](http://www.azerpug.com/curseforge "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/GitHub%20Panel%20Small.png "")](http://www.azerpug.com/github "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Fiverr%20Panel%20Small.png "")](http://www.azerpug.com/fiverr "")  
-
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Merch%20Panel%20Small.png "")](http://www.azerpug.com/merch "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Patreon%20Panel%20Small.png "")](http://www.azerpug.com/patreon "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/PayPal%20Panel%20Small.png "")](http://www.azerpug.com/paypal "")  
-
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/YouTube%20Panel%20Small.png "")](http://www.azerpug.com/youtube "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitter%20Panel%20Small.png "")](http://www.azerpug.com/twitter "") 
-[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Instagram%20Panel%20Small.png "")](http://www.azerpug.com/instagram "") 
+[![](https://github.com/AzerPUG/AZP-Files/blob/main/OWStorePanels/D4IM.png?raw=true "")](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=TW "") 
+[D4 Interactive Map](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=TW) is the first created most popular Overwolf app for Diablo 4. As an interactive map it shows you all important information, but also lets you hide or filter markers based on what you want to see. Timers and upcoming spawn locations for Helltides, World Bosses and Legions make it easy to plan around your farming and optimizes your play time.
+Download now at: [https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=GH](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=GH)
