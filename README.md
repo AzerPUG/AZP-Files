@@ -7,7 +7,7 @@ AzerPUG writes [Overwolf](https://www.overwolf.com/) apps to help gamers get bet
 ![](https://github.com/AzerPUG/AZP-Files/blob/main/OWAppLogos/D4IM.png?raw=true)
 ![](https://github.com/AzerPUG/AZP-Files/blob/main/OWAppLogos/D4IM.png?raw=true =25x25)
 ![](https://github.com/AzerPUG/AZP-Files/blob/main/OWAppLogos/D4IM.png?raw=true | width=25)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/AzerPUG/AZP-Files/blob/main/OWAppLogos/D4IM.png?raw=true" width="25" height="25" />
 
 | [D4 Interactive Map](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=TW) |  [Baldurs Map](https://www.overwolf.com/app/AzerPUG-Baldurs_Map?utm_campaign=Page&utm_medium=GH) | [Starfield Companion](https://www.overwolf.com/app/AzerPUG-Starfield_Companion?utm_campaign=Page&utm_medium=GH) |
 | :----: | :----: | :----: |
