@@ -1,0 +1,24 @@
+For all links, if you got a Promotional Deal with AzerPUG, make sure you adjust the links below in the following ways.
+- Adjust the text "YourNameHere" for your specific name.
+- Either keep the "LI" at the end the same for all links, or adjust it for the medium where you post it:
+ - TW for Twitch.
+ - TX for Twitter/X.
+ - YT for YouTube.
+ - DC for Discord.
+ - RD for Reddit.
+ - FB for Facebook.
+ - IG for Instagram.
+
+Always double check if the links you post work. If not, adjust them. If you can not get them to work, talk it over with your contact ASAP!
+
+D4 Interactive Map - D4IM:
+https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=YourNameHere&utm_medium=LI
+
+Starfield Companion - SFC:
+https://www.overwolf.com/app/AzerPUG-Starfield_Companion?utm_campaign=YourNameHere&utm_medium=LI
+
+Baldurs Map - BGM:
+https://www.overwolf.com/app/AzerPUG-Baldurs_Map?utm_campaign=YourNameHere&utm_medium=LI
+
+WoW Info - WoWI:
+https://www.overwolf.com/app/AzerPUG-WoW_Info?utm_campaign=YourNameHere&utm_medium=LI
