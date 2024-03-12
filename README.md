@@ -9,7 +9,9 @@ AzerPUG writes [Overwolf](https://www.overwolf.com/) apps to help gamers get bet
 | *Palworld* | *Diablo IV* |
 | [![](https://github.com/AzerPUG/AZP-Files/blob/main/OWStorePanels/PDE.jpg?raw=true "")](https://www.overwolf.com/app/AzerPUG-Paldeck_Enhanced?utm_campaign=Page&utm_medium=GH "") | [![](https://github.com/AzerPUG/AZP-Files/blob/main/OWStorePanels/D4IM.jpg?raw=true "")](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=GH "") |
 | [Paldeck Enhanced](https://www.overwolf.com/app/AzerPUG-Paldeck_Enhanced?utm_campaign=Page&utm_medium=GH) Dive into the world of Palworld with unmatched ease and insight using Paldeck Enhanced, the ultimate and first ever created companion app for Palworld. Whether you're navigating treacherous landscapes, seeking to optimize your base, or hunting for that rare Pal, Paldeck Enhanced is your go-to guide. | [D4 Interactive Map](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=GH) is the first created and most popular Overwolf app for Diablo 4. As an interactive map it shows you all important information, but also lets you hide or filter markers based on what you want to see. Timers and upcoming spawn locations for Helltides, World Bosses and Legions make it easy to plan around your farming and optimizes your play time. |
-| Download now at:  [https://www.overwolf.com/app/AzerPUG-Paldeck_Enhanced](https://www.overwolf.com/app/AzerPUG-Paldeck_Enhanced?utm_campaign=Page&utm_medium=GH) | Download now at:  [https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=GH) |
+| Download now at:  
+[https://www.overwolf.com/app/AzerPUG-Paldeck_Enhanced](https://www.overwolf.com/app/AzerPUG-Paldeck_Enhanced?utm_campaign=Page&utm_medium=GH) | Download now at:  
+[https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map](https://www.overwolf.com/app/AzerPUG-D4_Interactive_Map?utm_campaign=Page&utm_medium=GH) |
 
 <hr/>
 
